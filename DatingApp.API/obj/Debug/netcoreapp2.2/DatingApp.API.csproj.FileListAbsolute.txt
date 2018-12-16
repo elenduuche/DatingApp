@@ -1,0 +1,14 @@
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.deps.json
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.json
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.runtimeconfig.dev.json
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/bin/Debug/netcoreapp2.2/DatingApp.API.pdb
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csprojAssemblyReference.cache
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.csproj.CoreCompileInputs.cache
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cache
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorAssemblyInfo.cs
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfoInputs.cache
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.AssemblyInfo.cs
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.RazorTargetAssemblyInfo.cache
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.dll
+/Users/Elendu/Udemy/build-an-app-with-asp.net-core-and-angular/DatingApp/DatingApp.API/obj/Debug/netcoreapp2.2/DatingApp.API.pdb
